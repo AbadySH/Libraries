@@ -41,4 +41,3 @@ This repository contains a portability adaptation for Standard C++ environments.
 
 ⸻
 
-If your version actually works only on macOS and you don’t want to claim Linux support, change the Compatibility section to:
